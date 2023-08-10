@@ -6,3 +6,6 @@ pluginManagement {
     }
   }
 }
+
+include(":kmp-lib")
+include(":jvm-lib")
